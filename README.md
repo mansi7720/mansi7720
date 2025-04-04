@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Mansi Satish Jadhav!
 
-<!--
-**mansi7720/mansi7720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a BSc Computer Science (BCS) student at Vivekanand Arts, Sardar Dalipsingh Commerce and Science College, passionate about learning and building tech solutions. As a fresher, I'm actively looking for job opportunities to start my career in tech.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Degree: BSc in Computer Science  
+- College: Vivekanand Arts, Sardar Dalipsingh Commerce and Science College  
+- Location: Chhatrapati Sambhajinagar, India  
+- Pronouns: she/her  
+- Looking for: Job opportunities | Internships | Projects  
+- Interests: Web Development, Problem Solving, Programming  
+
+## Tech Stack
+
+- Languages: C, C++, java
+- Web: HTML, CSS, JavaScript  
+- Database: MySQL  
+- Tools: VS Code, Git, GitHub
+
+## Let's Connect!
+
+- *LinkedIn:* [Mansi Jadhav](https://www.linkedin.com/in/mansi-jadhav-209766306)  
+
+Thanks for visiting my profile!
