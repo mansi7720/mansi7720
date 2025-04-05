@@ -21,5 +21,5 @@ I'm a BSc Computer Science (BCS) student at Vivekanand Arts, Sardar Dalipsingh C
 ## Let's Connect!
 
 - *LinkedIn:* [Mansi Jadhav](https://www.linkedin.com/in/mansi-jadhav-209766306)  
-- *Portfolio:*https://www.canva.com/design/DAGjwBoMw7E/wsrM-vl7td-a0KH1TuJ_dg/view?utm_content=DAGjwBoMw7E&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4976c4d582
+- *Portfolio:* https://www.canva.com/design/DAGjwBoMw7E/wsrM-vl7td-a0KH1TuJ_dg/view?utm_content=DAGjwBoMw7E&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4976c4d582
 Thanks for visiting my profile!
